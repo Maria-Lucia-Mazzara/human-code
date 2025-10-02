@@ -9,14 +9,14 @@ Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengon
  -prendo dai ripiani gli ingredienti del ragù
   -prendo la passata di pomodoro
   -prendo la carne macinata
- -prendo dai ripiani la besciamella
- -prendo dai ripiani le sfoglie
- -prendo carote 
- -prendo sedano 
- -prendo cipolla 
- -prendo l'olio.
- -prendo il vino rosso
- -prendo ingrediente segreto
+  -prendo dai ripiani la besciamella
+  -prendo dai ripiani le sfoglie
+  -prendo carote 
+  -prendo sedano 
+  -prendo cipolla 
+  -prendo l'olio.
+  -prendo il vino rosso
+  -prendo ingrediente segreto
 
 -recuperare gli utensili
  -prendere la teglia forno
